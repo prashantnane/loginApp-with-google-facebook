@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">MySocial App</string>
+
+    
+    
+    <string name="facebook_app_id">906367680362828</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">83f3c57a756d4c99c3694b57eef92cc2</string>
+
+
+
+
+</resources>

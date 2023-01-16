@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "454374349481",
+    "project_id": "facebookauth-fb920",
+    "storage_bucket": "facebookauth-fb920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454374349481:android:cfebd7691c28972c3327b8",
+        "android_client_info": {
+          "package_name": "com.example.blokcauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454374349481-1n3j1cspqa1s0n5ojeisl9la4vppbspm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blokcauth",
+            "certificate_hash": "7cec3f22631665fa5143a78dab476c51bca0399e"
+          }
+        },
+        {
+          "client_id": "454374349481-ct0krbpqovi4rskd7n66rj39kl6fdjcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbtfNTP04nG2taDww_sUD50-x7tR2CKVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454374349481-ct0krbpqovi4rskd7n66rj39kl6fdjcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
