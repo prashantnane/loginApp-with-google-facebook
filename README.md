@@ -1,6 +1,6 @@
-# blokcauth
+# Social Media Integration task#5 at The Sparks Foundation
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
